@@ -23,7 +23,7 @@ npx skills add Infinity-002/statekeeper
 
 The installer discovers `statekeeper` and lets you choose any supported agent harness and project or global scope.
 
-For manual installation, place `SKILL.md` in a directory named `statekeeper` inside the harness's project or user skills directory:
+For manual installation, place `SKILL.md` in a directory named `statekeeper` inside the harness's skills or user projects directory:
 
 ```text
 <project-skills-dir>/statekeeper/SKILL.md
